@@ -16,7 +16,7 @@
 ---
 
 ## 📌 Projects
-- **Personal Expense Tracker**
+- **FinTrack-Smart-Receipt-Scanner**
 - **Dictionary Web App**
 
 ---
