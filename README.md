@@ -17,7 +17,7 @@
 
 ## 📌 Projects
 - **Personal Expense Tracker**
-- **Frontend Quiz App**
+- **Dictionary Web App**
 
 ---
 
